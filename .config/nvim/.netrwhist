@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/juamez/dev/flosh_study/algorithms/kosarajus'
+let g:netrw_dirhist_0='/home/juamez/dev/cf/unorganised'
+let g:netrw_dirhist_9='/home/juamez/dev/projects/problem_making/questions/arithmetic_subsequence'
+let g:netrw_dirhist_8='/home/juamez/dev/uni/temp'
+let g:netrw_dirhist_7='/home/juamez/dev/uni'
+let g:netrw_dirhist_6='/home/juamez/dev/temp/pythontemps'
+let g:netrw_dirhist_5='/home/juamez/dev'
+let g:netrw_dirhist_4='/home/juamez/dev/default'
+let g:netrw_dirhist_3='/home/juamez/dev/atcoder/beginner/bc148'
+let g:netrw_dirhist_2='/home/juamez/.config/nvim/ftplugin'
